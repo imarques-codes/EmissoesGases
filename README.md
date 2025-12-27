@@ -1,5 +1,9 @@
 Análise de Emissões de Gases de Efeito Estufa (GEE) no Brasil
 Este projeto consiste em uma análise exploratória de dados sobre as emissões de gases de efeito estufa no Brasil, abrangendo o período de 1970 a 2021. Utilizando a base de dados do SEEG (Sistema de Estimativas de Emissões e Remoções de Gases de Efeito Estufa), o estudo identifica os principais setores, gases e estados responsáveis pelas emissões no país.
+📂 Base de Dados
+O ficheiro de dados é demasiado grande para o GitHub. Pode descarregá-lo aqui: [Download Dataset (Google Drive)](https://docs.google.com/spreadsheets/d/1SKkSazDZJSU1HzifAt_jclvQ59Rtl-vN/edit?usp=sharing&ouid=101592218707252029913&rtpof=true&sd=true)
+
+Arquivo referente aos municipios, para a visualização per capita:[Download Dataset (Google Drive)](https://docs.google.com/spreadsheets/d/1CJ1GJgNZw1QF5YYwgS4AJWRbrUcwdiXU/edit?usp=sharing&ouid=101592218707252029913&rtpof=true&sd=true)
 
 📋 Conteúdo do Projeto
 O notebook realiza o processamento de uma base de dados complexa e gera visualizações para responder a perguntas fundamentais sobre o impacto ambiental das atividades econômicas:
